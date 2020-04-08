@@ -268,7 +268,6 @@
     <Content Include="Views\Use\LeftNav.cshtml" />
     <Content Include="Views\Use\Planetariums.cshtml" />
     <Content Include="Views\Use\Researchers.cshtml" />
-    <Content Include="Views\Use\Tools.cshtml" />
     <Content Include="Views\Use\WWTPlanetarium.cshtml" />
   </ItemGroup>
   <ItemGroup>
