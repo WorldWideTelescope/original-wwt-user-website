@@ -1,4 +1,12 @@
-# The worldwidetelescope.org “user” website
+# The SUPERSEDED worldwidetelescope.org “user” website
+
+This repository contains an old version of the WWT user website powered by
+ASP.NET. It has been superseded by the static site in
+[wwt-user-website](https://github.com/WorldWideTelescope/wwt-user-website/).
+
+---
+
+# SUPERSEDED content follows
 
 The user-facing portion of the [AAS](https://aas.org/)
 [WorldWide Telescope](http://worldwidetelescope.org/home) (WWT) website —
