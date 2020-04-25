@@ -260,7 +260,6 @@
     <Content Include="Views\Support\Localization.cshtml" />
     <Content Include="Views\Terms\Index.cshtml" />
     <Content Include="Views\Upgrade\Index.cshtml" />
-    <Content Include="Views\Use\Beta.cshtml" />
     <Content Include="Views\Use\DomeProject.cshtml" />
     <Content Include="Views\Use\Educators.cshtml" />
     <Content Include="Views\Use\Embed.cshtml" />
@@ -269,8 +268,6 @@
     <Content Include="Views\Use\LeftNav.cshtml" />
     <Content Include="Views\Use\Planetariums.cshtml" />
     <Content Include="Views\Use\Researchers.cshtml" />
-    <Content Include="Views\Use\Tools.cshtml" />
-    <Content Include="Views\Use\TourAssets.cshtml" />
     <Content Include="Views\Use\WWTPlanetarium.cshtml" />
   </ItemGroup>
   <ItemGroup>
